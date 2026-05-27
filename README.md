@@ -142,7 +142,7 @@ Durante o desenvolvimento deste projeto foi possível compreender:
 - Inteligência Artificial
 - Documentação Técnica
 
-- ---
+---
 
 <a id="replicar"></a>
 
@@ -154,7 +154,7 @@ Durante o desenvolvimento deste projeto foi possível compreender:
 4. Utilize o Toolkit de Prompts para gerar novos resumos e revisar os conteúdos.
 5. Explore perguntas diferentes para testar a capacidade analítica da IA.
 
-- ---
+---
 ## ✨ Conclusão do Projeto
 
 Este projeto permitiu explorar o uso da Inteligência Artificial como ferramenta prática de aprendizagem ativa, fortalecendo habilidades de pesquisa, pensamento crítico, documentação técnica e organização do conhecimento.
