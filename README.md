@@ -155,6 +155,6 @@ Durante o desenvolvimento deste projeto foi possível compreender:
 5. Explore perguntas diferentes para testar a capacidade analítica da IA.
 
 - ---
-## ✨ Considerações Finais
+## ✨ Conclusão do Projeto
 
 Este projeto permitiu explorar o uso da Inteligência Artificial como ferramenta prática de aprendizagem ativa, fortalecendo habilidades de pesquisa, pensamento crítico, documentação técnica e organização do conhecimento.
